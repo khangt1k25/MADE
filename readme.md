@@ -1,4 +1,4 @@
-### MADE: Masked Autoencoder for distribution estimation
+### An implementation for MADE: Masked Autoencoder for distribution estimation
 
 1. Data: 
 Download and preprocessing
@@ -8,6 +8,7 @@ Download and preprocessing
 2. Implement:
 Implement in MADE_pytorch.ipynb. All libs in this implementation are in the top line of codes.
 3. Ref:
+https://arxiv.org/abs/1502.03509
 https://github.com/karpathy/pytorch-made
 http://bjlkeng.github.io/posts/autoregressive-autoencoders/
 ... (See more at the end of the report)
